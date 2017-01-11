@@ -1,0 +1,27 @@
+/**css de base**/
+body{
+    font: 16px sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,h6{
+    font-weight: 100;
+    text-align: center;
+}
+p{
+    width: 800px;
+    margin:10px auto;
+    padding:15px;
+    text-align: center;
+   
+   
+
+    background-image: -moz-linear-gradient(top,#DF0072, magenta);
+    /*background:magenta;*/
+    
+    color: #fff;
+    border-radius: 4px;
+    text-shadow: 1px 1px 0 #222;
+}
